@@ -1,0 +1,18 @@
+.BL{
+    display: flex;
+    justify-content: center;
+    
+}
+.size-item{
+    width: 691px;
+    height: 390px;
+    background-size: cover;
+    
+}
+.size-item2{
+    width: 476px;
+    height: 187px;
+    background-size: cover;
+    margin-bottom: 15px;
+    margin-left: 15px;
+}
